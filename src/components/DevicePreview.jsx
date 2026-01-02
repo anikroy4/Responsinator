@@ -1,9 +1,8 @@
 import React from 'react'
 
-
-const devices = [
+const Devices = [
   {
-    name: 'Mobile Potrait',
+    name: 'Mobile Portrait',
     width: 375,
     height: 667,
     minWidth: 320,
