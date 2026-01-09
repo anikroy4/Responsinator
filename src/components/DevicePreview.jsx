@@ -35,10 +35,28 @@ const Devices = [
     height: 900,
     borderRadius: 0,
   },
+  {
+    name: 'Large Desktop',  
+    width: 1920,
+    height: 1080,
+    borderRadius: 0,
+  },
+  
 ] 
 const DevicePreview = () => {
   return (
-    <div>DevicePreview</div>
+    <>
+      {Devices.map((Devices, index) => (
+
+      <div key={index} className='mb-17.5 text-center'>
+        <h3 className='mb-4 text-lg font-medium'>{Devices.name} -- (Min-Width: {Devices.minWidth}px Max-Width: {Devices.maxWidth}px)</h3>
+        <div
+          className='mx-auto border-solid border-black  bg-white '>
+        </div> 
+      </div>
+
+    ))}
+    </>
   )
 }
 
