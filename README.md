@@ -96,10 +96,5 @@ MIT
 
 ---
 
-If you'd like, I can also:
-
-- Add a demo GIF or screenshot (I'll commit it to `public/`)
-- Add CI badges (build/test)
-- Add a short `CONTRIBUTING.md` with PR checklist
 
 
