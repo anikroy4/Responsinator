@@ -16,7 +16,7 @@ Demo
 ![Demo preview](public/demo.png)
 <br>
 
-<a href="https://responsinator-zeta.vercel.app/" target="_blank">
+<a href="https://responsinator-bd-roy.vercel.app/" target="_blank">
 	View Link
 </a>
 <br>
