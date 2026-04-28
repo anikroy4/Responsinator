@@ -14,8 +14,9 @@ Demo
 
 
 ![Demo preview](public/demo.png)
-
-![Demo preview](https://responsinator-zeta.vercel.app/)
+<a href="https://responsinator-zeta.vercel.app/">
+	View Link
+</a>
 
 
 Contents
