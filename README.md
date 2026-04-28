@@ -16,10 +16,10 @@ Demo
 ![Demo preview](public/demo.png)
 <br>
 
-<a href="https://responsinator-zeta.vercel.app/">
+<a href="https://responsinator-zeta.vercel.app/" target="_blank">
 	View Link
 </a>
-
+<br>
 
 Contents
 
