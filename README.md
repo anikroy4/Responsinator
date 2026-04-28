@@ -12,7 +12,7 @@ A refined, minimal tool to preview live websites inside beautifully styled devic
 
 Demo
 
-![Demo preview](public/demo.svg)
+![Demo preview](https://responsinator-zeta.vercel.app/)
 
 Contents
 
