@@ -5,8 +5,14 @@
 ![Vite](https://img.shields.io/badge/Vite-+7.2.4-brightgreen)
 ![React](https://img.shields.io/badge/React-19.2.0-61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-4.x-06B6D4)
+![Build](https://img.shields.io/github/actions/workflow/status/anikr/Responsinator/.github/workflows/build.yml?branch=main&label=build&style=for-the-badge)
+![Lint](https://img.shields.io/github/actions/workflow/status/anikr/Responsinator/.github/workflows/test.yml?branch=main&label=lint&style=for-the-badge)
 
 A refined, minimal tool to preview live websites inside beautifully styled device frames. Use single or grid views, filter devices, zoom, proxy public sites for iframe embedding, and quickly capture screenshots.
+
+Demo
+
+![Demo preview](public/demo.svg)
 
 Contents
 
@@ -94,12 +100,6 @@ Small fixes
 
 MIT
 
----
-
-If you'd like, I can also:
-
-- Add a demo GIF or screenshot (I'll commit it to `public/`)
-- Add CI badges (build/test)
-- Add a short `CONTRIBUTING.md` with PR checklist
+------------------- END--------------------
 
 
